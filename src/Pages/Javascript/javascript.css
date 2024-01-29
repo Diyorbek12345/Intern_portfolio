@@ -1,0 +1,8 @@
+.wrapp{
+  max-width: 500px;
+  border: 2px solid white;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
