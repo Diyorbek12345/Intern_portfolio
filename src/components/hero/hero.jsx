@@ -13,8 +13,7 @@ export const Hero = () => {
             </h1>
             <p className="mb-8 leading-relaxed">
               Hi 👋, I am intern Front-end Developer. I am 15 years old and i
-              study at school in 8th grade in 35 school which located in
-              Bukhara. And I want to work with senior Developer in training time
+              study at school. I have finished Na'jot Ta'lim courses during 9 months And I want to work with senior Developer in training time
               as well as I demand 100$ at that time.
             </p>
           </div>
